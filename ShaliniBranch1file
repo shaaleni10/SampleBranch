@@ -1,1 +1,4 @@
-echo MyShalini Branch1
+node
+{
+git 'https://github.com/shaaleni10/SampleBranch.git'
+}
